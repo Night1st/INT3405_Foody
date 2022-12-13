@@ -1,0 +1,9 @@
+numpy
+scipy
+sklearn
+matplotlib
+scikit-image
+tensorflow>=2.2.0
+keras>=2.0.8
+pyvi
+IPython[all]
